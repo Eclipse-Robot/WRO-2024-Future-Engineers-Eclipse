@@ -4,4 +4,4 @@
  <img alt="Eclipse's banner." src="https://github.com/Eclipse-Robot/WRO-2024-Future-Engineers-Eclipse/blob/main/other/img/Eclipse.png">
 </picture>
 
-[](Materials/materials.md)
+[Materials:](https://github.com/Eclipse-Robot/WRO-2024-Future-Engineers-Eclipse/blob/main/Materials/materials.md)
