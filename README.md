@@ -67,3 +67,16 @@
 
 
 <!-- Materials End -->
+
+<!-- Progression -->
+
+<details open>
+<summary>Our whole tought process</summary>
+
+<h2>How we discovered Future Engineers</h2>
+<p>First, we heard about Future Engineer at the end of our 2024 senior WRO trial.</p>
+
+
+</details>
+
+<!-- Progression End-->
