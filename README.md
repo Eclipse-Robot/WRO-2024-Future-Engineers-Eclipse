@@ -21,7 +21,7 @@
 
 <ul>
   <li>
-  <a href="https://www.pishop.ca/product/raspberry-pi-4-model-b-8gb/">Raspberry Pi 4 Model B/8GB</a>
+  <a href="https://www.pishop.ca/product/raspberry-pi-4-model-b-8gb/">Raspberry Pi 4 Model B/8GB, </a>
   </li>
 
   <li>
@@ -61,6 +61,14 @@
   </li>
 
 </ul>
+
+<h2>Weight<h2>
+
+<p>- Raspberry Pi, Camera, Pisugar and Dual Fan = 170.42 g <br> 
+- Arduino = 22.69g <br>
+- 4x wheels = 138.74g <br>
+- Battery for engines = 125.95g
+</p>
 
 </details>
 
