@@ -10,6 +10,10 @@ from libcamera import controls
 from PIL import Image
 from util import get_limits
 
+Direction = 1
+Speed = 0
+
+
 # Colors in BGR
 detected_color = (0, 0, 255)  # Red
 detected_color2 = (0, 255, 255)  # Yellow
@@ -61,10 +65,18 @@ def read_from_arduino(ser):
         print(f"Error reading from serial: {e}")
         return None
 
-def write_to_arduino(ser, command):
+def write_speed_to_arduino(ser, command):
     try:
-        ser.write(command)
+        ser.write("Speed ", command)
         print(f"Sent command: {command.decode('utf-8').strip()}")
+        ser.flush() 
+    except serial.SerialException as e:
+        print(f"Error writing to serial: {e}")
+
+def write_direction_to_arduino(ser, command):
+    try:
+        ser.write("Direction ", command)
+        print(f"Sent command: Direction {command.decode('utf-8').strip()}")
         ser.flush() 
     except serial.SerialException as e:
         print(f"Error writing to serial: {e}")
@@ -86,7 +98,9 @@ def establish_serial_connection(port, baudrate, timeout, retries=5, delay=2):
 def read_arduino_thread(ser):
     while running:
         read_from_arduino(ser)
-        time.sleep(0.01)
+        write_speed_to_arduino(ser, Speed)
+        write_direction_to_arduino(ser, Direction)
+        time.sleep(0.05)
 
 # Camera loop
 def camera_processing_thread(picam2):
