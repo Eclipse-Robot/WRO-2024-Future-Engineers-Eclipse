@@ -1,14 +1,11 @@
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Eclipse-Robot/WRO-2024-Future-Engineers-Eclipse/blob/main/other/img/Eclipse.png">
- <source media="(prefers-color-scheme: light)" srcset="https://github.com/Eclipse-Robot/WRO-2024-Future-Engineers-Eclipse/blob/main/other/img/Eclipse.png">
- <img alt="Eclipse's banner." src="https://github.com/Eclipse-Robot/WRO-2024-Future-Engineers-Eclipse/blob/main/other/img/Eclipse.png">
-</picture>
+<details open>
+<summary>Engineering Factor</summary>
 
-<h1>Materials:</h1>
+<h2>Materials:</h2>
 
 <ul>
   <li>
-  <a href="https://www.pishop.ca/product/raspberry-pi-4-model-b-8gb/">Raspberry Pi 4 Model B/8GB</a>
+  <a href="https://www.pishop.ca/product/raspberry-pi-4-model-b-8gb/">Raspberry Pi 4 Model B/8GB, </a>
   </li>
 
   <li>
@@ -36,7 +33,7 @@
   </li>
 
   <li>
-  <a href="https://www.elegoo.com/en-ca/products/elegoo-smart-robot-car-kit-v-3-0-plus/">Smart Robot Car Kit V3.0 Plus (We took the batteries, engnines and wheels of the kit)</a>
+  <a href="https://www.elegoo.com/en-ca/products/elegoo-smart-robot-car-kit-v-3-0-plus/">Smart Robot Car Kit V3.0 Plus</a>
   </li>
 
  <li>
@@ -49,10 +46,5 @@
 
 </ul>
 
-<h2>Weight<h2>
 
-<p>- Raspberry Pi, Camera, Pisugar and Dual Fan = 170.42 g <br> 
-- Arduino = 22.69g <br>
-- 4x wheels = 138.74g <br>
-- Battery for engines = 125.95g
-</p>
+</details>

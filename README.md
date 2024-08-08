@@ -8,14 +8,59 @@
 <br>
 <!-- Banner End -->
 
-
-
-<!-- Materials -->
-
-
-
+<!-- Mobility Managment -->
 <details open>
-<summary>Materials List</summary>
+<summary>Mobility Managment</summary>
+
+
+</details>
+<!-- Mobility Managment End-->
+
+
+
+<!-- Power and Sence Managment -->
+<details open>
+<summary>Power and Sence Managment</summary>
+
+
+</details>
+<!-- Power and Sence Managment End-->
+
+
+
+<!-- Obstacle Managment -->
+<details open>
+<summary>Obstacle Managment</summary>
+
+
+</details>
+<!-- Obstacle Managment End-->
+
+
+
+<!-- Pictures – Team and vehicle -->
+<details open>
+<summary>Pictures – Team and vehicle</summary>
+
+
+</details>
+<!-- Pictures – Team and vehicle End-->
+
+
+
+<!-- Performance Video -->
+<details open>
+<summary>Performance Video</summary>
+
+
+</details>
+<!-- Performance Video End-->
+
+
+
+<!-- Engineering Factor -->
+<details open>
+<summary>Engineering Factor</summary>
 
 <h2>Materials:</h2>
 
@@ -62,6 +107,28 @@
 
 </ul>
 
+
+</details>
+<!-- Engineering Factor End-->
+
+
+<!-- Progression -->
+
+<details open>
+<summary>Progression</summary>
+
+<h2>How we discovered Future Engineers</h2>
+<p>First, we heard about Future Engineer at the end of our 2024 senior WRO trial.</p>
+
+
+</details>
+
+<!-- Progression End-->
+
+
+<details open>
+<summary>Random information</summary>
+
 <h2>Weight<h2>
 
 <p>- Raspberry Pi, Camera, Pisugar and Dual Fan = 170.42 g <br> 
@@ -72,19 +139,3 @@
 
 </details>
 
-
-
-<!-- Materials End -->
-
-<!-- Progression -->
-
-<details open>
-<summary>Our whole tought process</summary>
-
-<h2>How we discovered Future Engineers</h2>
-<p>First, we heard about Future Engineer at the end of our 2024 senior WRO trial.</p>
-
-
-</details>
-
-<!-- Progression End-->
