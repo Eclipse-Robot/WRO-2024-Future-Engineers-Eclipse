@@ -8,9 +8,31 @@
 <br>
 <!-- Banner End -->
 
-<!-- Mobility Managment -->
+<!-- Progression -->
+
 <details open>
-<summary>Mobility Managment</summary>
+<summary><big>Progression</big></summary>
+
+<h2>How we discovered Future Engineers</h2>
+<p>First, we heard about Future Engineer at the end of our 2024 RobotMission senior <abbr title="World Robot Olympiad">WRO</abbr> trial. After the medals were awarded, the head judge presented this competition. She mentioned that it was more challenging and complex than what we had previously experienced. On the way back home, we discussed it with our coach, who thought it was a great project for us and encouraged us to participate. He promised to provide us with as many resources as we needed, both human and material. We felt excited knowing that we had full access to all of the newest technology at the school (3D printers, laser cutter, etc.). So, here we were, one week after our previous competition, in the technology room, paper and pencil in hand, ready to create a masterpiece.</p>
+
+
+</details>
+
+<!-- Progression End-->
+
+<!-- Mobility Managment -->
+<details open> <summary><big>Mobility Managment</big></summary>
+<h2>The motors</h2>
+<p>
+<br>First, the robot is moving with two motors, one for the speed and the other for the direction.
+
+The first one come from an arduino kit.
+<b style="background-color:Tomato;">(insert image of motor)</b> We chose this one instead of any other because we had a lot of them on hand and we found that they were pretty reliable for what we needed (they are resistant, they can go to precise speed, and they can turn in reverse).
+
+The other one is a micro servo motor SG90.<b style="background-color:Tomato;">(insert image of micro servo motor SG90)</b> Its small and very precise gear made it the perfect candidate for our direction system witch sometime needs to turn to a precise angle.
+
+</p>
 
 
 </details>
@@ -20,7 +42,7 @@
 
 <!-- Power and Sence Managment -->
 <details open>
-<summary>Power and Sence Managment</summary>
+<summary><big>Power and Sence Managment</big></summary>
 
 
 </details>
@@ -30,7 +52,7 @@
 
 <!-- Obstacle Managment -->
 <details open>
-<summary>Obstacle Managment</summary>
+<summary><big>Obstacle Managment</big></summary>
 
 
 </details>
@@ -40,7 +62,7 @@
 
 <!-- Pictures – Team and vehicle -->
 <details open>
-<summary>Pictures – Team and vehicle</summary>
+<summary><big>Pictures – Team and vehicle</big></summary>
 
 
 </details>
@@ -50,7 +72,7 @@
 
 <!-- Performance Video -->
 <details open>
-<summary>Performance Video</summary>
+<summary><big>Performance Video</big></summary>
 
 
 </details>
@@ -60,7 +82,7 @@
 
 <!-- Engineering Factor -->
 <details open>
-<summary>Engineering Factor</summary>
+<summary><big>Engineering Factor</big></summary>
 
 <h2>Materials:</h2>
 
@@ -112,26 +134,12 @@
 <!-- Engineering Factor End-->
 
 
-<!-- Progression -->
-
 <details open>
-<summary>Progression</summary>
-
-<h2>How we discovered Future Engineers</h2>
-<p>First, we heard about Future Engineer at the end of our 2024 senior WRO trial.</p>
-
-
-</details>
-
-<!-- Progression End-->
-
-
-<details open>
-<summary>Random information</summary>
+<summary><big>Random information</big></summary>
 
 <h2>Weight<h2>
 
-<p>- Raspberry Pi, Camera, Pisugar and Dual Fan = 170.42 g <br> 
+<p>- Raspberry Pi, Camera, Pisugar and DualFan = 170.42 g <br> 
 - Arduino = 22.69g <br>
 - 4x wheels = 138.74g <br>
 - Battery for engines = 125.95g
