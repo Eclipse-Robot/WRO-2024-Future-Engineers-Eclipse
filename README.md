@@ -3,7 +3,7 @@
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Eclipse-Robot/WRO-2024-Future-Engineers-Eclipse/blob/main/other/img/Eclipse.png">
  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Eclipse-Robot/WRO-2024-Future-Engineers-Eclipse/blob/main/other/img/Eclipse.png">
- <img alt="Eclipse's banner." src="https://github.com/Eclipse-Robot/WRO-2024-Future-Engineers-Eclipse/blob/main/other/img/Eclipse.png">
+ <img alt="Eclipse's banner" src="https://github.com/Eclipse-Robot/WRO-2024-Future-Engineers-Eclipse/blob/main/other/img/Eclipse.png">
 </picture>
 <br>
 <!-- Banner End -->
@@ -28,9 +28,9 @@
 <br>First, the robot is moving with two motors, one for the speed and the other for the direction.
 
 The first one come from an arduino kit.
-<b style="background-color:Tomato;">(insert image of motor)</b> We chose this one instead of any other because we had a lot of them on hand and we found that they were pretty reliable for what we needed (they are resistant, they can go to precise speed, and they can turn in reverse).
+<b style="background-color:Tomato;"><img alt="DC Motor" src="https://github.com/Eclipse-Robot/WRO-2024-Future-Engineers-Eclipse/blob/main/other/img/DC_Motor.png?raw=true"></b> We chose this one instead of any other because we had a lot of them on hand and we found that they were pretty reliable for what we needed (they are resistant, they can go to precise speed, and they can turn in reverse).
 
-The other one is a micro servo motor SG90.<b style="background-color:Tomato;">(insert image of micro servo motor SG90)</b> Its small and very precise gear made it the perfect candidate for our direction system witch sometime needs to turn to a precise angle.
+The other one is a micro servo motor SG90.<b style="background-color:Tomato;"><img alt="SG90 Motor" src="https://github.com/Eclipse-Robot/WRO-2024-Future-Engineers-Eclipse/blob/main/other/img/SG90.png?raw=true"></b> Its small and very precise gear made it the perfect candidate for our direction system witch sometime needs to turn to a precise angle.
 
 </p>
 
